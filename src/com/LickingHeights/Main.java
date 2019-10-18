@@ -15,7 +15,7 @@ public class Main {
         String name;
         name = " ";
         name = keyboard.nextLine();
-       
+        System.out.println( "Hello " + name);
 
 
     }
