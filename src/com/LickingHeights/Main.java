@@ -19,7 +19,10 @@ public class Main {
 
         int number1;
         int number2;
-        
+        System.out.println("Give a number.");
+        number1 = keyboard.nextLine();
+        System.out.println("Give me a second number.");
+        number2 = keyboard.nextLine();
 
     }
 }
