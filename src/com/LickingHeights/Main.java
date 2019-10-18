@@ -17,8 +17,10 @@ public class Main {
         name = keyboard.nextLine();
         System.out.println( "Hello " + name);
 
-        int number1;
-        int number2;
+        String number1;
+        String number2;
+        number1 = " ";
+        number2 = " ";
         System.out.println("Give a number.");
         number1 = keyboard.nextLine();
         System.out.println("Give me a second number.");
