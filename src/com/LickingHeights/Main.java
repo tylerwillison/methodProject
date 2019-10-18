@@ -17,6 +17,9 @@ public class Main {
         name = keyboard.nextLine();
         System.out.println( "Hello " + name);
 
+        int number1;
+        int number2;
+        
 
     }
 }
